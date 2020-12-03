@@ -1,0 +1,24 @@
+{
+  "name": "frontend_coursera",
+  "version": "1.0.0",
+  "description": "test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-radhika/bootstrap4.git"
+  },
+  "author": "radhika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-radhika/bootstrap4/issues"
+  },
+  "homepage": "https://github.com/p-radhika/bootstrap4#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
